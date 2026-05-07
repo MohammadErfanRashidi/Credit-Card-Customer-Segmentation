@@ -7,3 +7,5 @@ scipy
 diptest
 statsmodels
 joblib
+plotly
+streamlit
