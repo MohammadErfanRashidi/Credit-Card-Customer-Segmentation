@@ -1,0 +1,27 @@
+{
+  "0": {
+    "segment_name": "Cash-Advance Dependent",
+    "description": "Rarely buy, cash advances dominate, low credit limit, rarely pay full.",
+    "strategy": "Risk containment, financial education, offer personal loans instead of cash advances."
+  },
+  "1": {
+    "segment_name": "Everyday Super Users",
+    "description": "Frequent small purchasers, avoid cash advances, often pay full, high credit limit.",
+    "strategy": "Loyalty rewards, cashback, premium card upgrades, cross\u2011sell travel & insurance."
+  },
+  "2": {
+    "segment_name": "Mixed Spenders with Cash Need",
+    "description": "High cash advance AND many big purchases, moderate payment behaviour.",
+    "strategy": "Balance transfer offers, instalment plans, monitor for delinquency."
+  },
+  "3": {
+    "segment_name": "High-Volume Balanced Spenders",
+    "description": "Extremely active, both small and large purchases, very few cash advances.",
+    "strategy": "Premium cards, higher credit lines, concierge services, retention campaigns."
+  },
+  "4": {
+    "segment_name": "Big Ticket Spenders",
+    "description": "Infrequent but very large purchases, rarely use cash advances, high credit limit.",
+    "strategy": "Encourage everyday use with bonus points, instalment options for large items."
+  }
+}
