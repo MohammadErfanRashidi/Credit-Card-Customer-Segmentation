@@ -2,6 +2,9 @@
 
 A professional end-to-end machine learning project that segments credit card customers based on their transaction behaviour. The pipeline covers data cleaning, exploratory analysis, feature engineering, unsupervised clustering and deployment of an interactive web app that instantly classifies new customers and recommends business strategies.
 
+## Live demo:
+[Streamlit webapp](https://credit-card-customer-segmentation-unwywetruzwhz85n82jhcd.streamlit.app/)
+
 ## Overview
 
 Understanding customer behaviour is essential for targeted marketing, risk management, and product personalisation. This project applies **K-Means clustering** to group credit card users into five distinct segments using engineered behavioural features such as purchase frequency, cash advance dependency and one‑off purchase patterns. The result is a ready‑to‑use **Streamlit application** that classifies any new customer and presents a clear segment name, a descriptive profile, and a tailored business strategy.
